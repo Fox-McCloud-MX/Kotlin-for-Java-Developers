@@ -1,2 +1,10 @@
-# Kotlin-for-Java-developers
-Kotlin-for-Java-developers
+# Section 2 - Introduction to Kotlin
+##### Guiding Principles
+
+- Conciseness
+- Safety
+- Pragmatism
+- Interopertability
+
+
+
