@@ -1,6 +1,6 @@
 package com.mx.kotlin._29.Arrays
 
-import com.mx.java.code.DummyClass
+import com.mx.java.code._29.Arrays.DummyClass
 import java.math.BigDecimal
 
 fun main(args: Array<String>) {
