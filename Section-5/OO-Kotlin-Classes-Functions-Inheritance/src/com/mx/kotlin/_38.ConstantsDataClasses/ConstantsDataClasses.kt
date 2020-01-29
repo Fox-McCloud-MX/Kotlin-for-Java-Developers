@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
 }
 
 //Primary constructor at least one argument
-//They can't be abstract, sealed or inner classes
+//They can't be abstract, sealed or inner classes 
 data class Car(val color: String, val model: String, val year: Int) {
 
 }
