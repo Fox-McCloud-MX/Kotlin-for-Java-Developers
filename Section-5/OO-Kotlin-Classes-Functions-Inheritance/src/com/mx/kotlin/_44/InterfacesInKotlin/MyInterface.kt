@@ -7,7 +7,7 @@ interface MyInterface {
 
     //concrete property
     val number2: Int
-        get() = 50
+        get() = 30
 
     fun MyFunction(string: String) : String
 }
