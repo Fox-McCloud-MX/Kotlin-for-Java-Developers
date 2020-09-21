@@ -7,3 +7,4 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 
 ### Section 2
 
+- [12.- The-Java-text-adventure](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/tree/master/Section-2/12-The-Java-text-adventure)
