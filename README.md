@@ -9,3 +9,8 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 
 - [12.- The-Java-text-adventure](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/tree/master/Section-2/12-The-Java-text-adventure)
 - [13.- The-converter-Kotlin-text-adventure-game](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/tree/master/Section-2/13-The-converter-Kotlin-text-adventure-game)
+
+### Section 3 - Basic Differences Between Kotlin and Java
+
+- [16.- Hello World from Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_16/hello/world/HelloWorld.kt)
+
