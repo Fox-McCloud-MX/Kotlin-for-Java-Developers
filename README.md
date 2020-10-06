@@ -13,4 +13,5 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 ### Section 3 - Basic Differences Between Kotlin and Java
 
 - [16.- Hello World from Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_16/hello/world/HelloWorld.kt)
+- [18.- Variable Declarations in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_18/declarations/Declarations.kt)
 
