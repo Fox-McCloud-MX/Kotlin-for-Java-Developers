@@ -16,4 +16,4 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 - [18.- Variable Declarations in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_18/declarations/Declarations.kt)
 - [19.- How to Create Type Aliases in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_19/typealias/TypeAlias.kt)
 - [21.- How Kotlin handles equality differently from Java](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_21/equality/Equality.kt)
-
+- [22.- Bit Operators and Smart Casting in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_22/bitOperators/SmartCasting/BitOperatorsAndSmartCasting.kt)
