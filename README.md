@@ -19,3 +19,5 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 - [22.- Bit Operators and Smart Casting in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_22/bitOperators/SmartCasting/BitOperatorsAndSmartCasting.kt)
 - [23.- String Templates in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_23/stringTemplates/StringTemplates.kt)
 - [24.- Raw Strings in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_24/rawStrings/RawStrings.kt)
+- [25.- The Kotlin REPL](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_25/REPL/REPL.kt)
+
