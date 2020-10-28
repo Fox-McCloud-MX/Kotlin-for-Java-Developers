@@ -28,5 +28,6 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 
 - [29.- Arrays in Kotlin - Java Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/java/code/_29/Arrays/DummyClass.java)
 - [29.- Arrays in Kotlin - Kotlin Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_29/Arrays/ArraysInKotlin.kt)
-- [30.- Null References in Kotlin - Part Two](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/java/code/_30/NullReferences/NullReferences.java)
+- [30.- Null References in Kotlin - Part Two - Java Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/java/code/_30/NullReferences/NullReferences.java)
+- [30.- Null References in Kotlin - Part Two - Kotlin Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_30/NullReferences/NullReferences.kt)
 
