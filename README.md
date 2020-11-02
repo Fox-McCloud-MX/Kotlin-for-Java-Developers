@@ -22,10 +22,9 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 - [25.- The Kotlin REPL](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_25/REPL/REPL.kt)
 - [26.- Kotlin Challenges (Round One)](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-3/Basic-Differences-Between-Kotling-and-Java/src/com/mx/kotlin/_26/KotlinChanllenges/KotlinChanllenges.kt)
 
-### Section 4: Data Types and Null - Reference Handling
+### Section 4 - Data Types and Null - Reference Handling
 
 - [28.- The Builtin Dataypes in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_28/DataTypes/DataType.kt)
-
 - [29.- Arrays in Kotlin - Java Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/java/code/_29/Arrays/DummyClass.java)
 - [29.- Arrays in Kotlin - Kotlin Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_29/Arrays/ArraysInKotlin.kt)
 - [30.- Null References in Kotlin - Part One - Java Code](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/java/code/_30/NullReferences/NullReferences.java)
@@ -33,3 +32,6 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 - [31.- Null References in Kotlin - Part Two](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_31/NullReferences/NullReferences.kt)
 - [32.- Arrays and Null References](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_32/ArrayNullReferences/ArrayNullReferences.kt)
 - [33.- Kotlin Challenges (Round Two)](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-4/Data-Types-And-Null-Reference-Handling/src/com/mx/kotlin/_33/KotlinChallenges/KotlinChallenges.kt)
+
+### Section 5 - OO and Kotlin: Classes, Functions, Inheritance
+
