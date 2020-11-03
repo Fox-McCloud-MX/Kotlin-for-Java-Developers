@@ -35,3 +35,4 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 
 ### Section 5 - OO and Kotlin: Classes, Functions, Inheritance
 
+- [35.- Kotlin's Access Modifiers](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-5/OO-Kotlin-Classes-Functions-Inheritance/src/com/mx/kotlin/_35/AccessModifiers/AccessModifiers.kt)
