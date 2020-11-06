@@ -38,3 +38,4 @@ Kotlin for Java Developers - course based on [Udemy - Kotlin for Java Developers
 - [35.- Kotlin's Access Modifiers](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-5/OO-Kotlin-Classes-Functions-Inheritance/src/com/mx/kotlin/_35/AccessModifiers/AccessModifiers.kt)
 - [36.- Declaring Classes and Using Constructors in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/blob/master/Section-5/OO-Kotlin-Classes-Functions-Inheritance/src/com/mx/kotlin/_36/ClassesInKotlin/ClassesInKotlin.kt)
 - [37.- Properties and Backing Fields in Kotlin](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/tree/master/Section-5/OO-Kotlin-Classes-Functions-Inheritance/src/com/mx/kotlin/_37/FieldsInKotlin)
+- [38.- Constants and Data Classes](https://github.com/Fox-McCloud-MX/Kotlin-for-Java-Developers/tree/master/Section-5/OO-Kotlin-Classes-Functions-Inheritance/src/com/mx/kotlin/_38.ConstantsDataClasses)
